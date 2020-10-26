@@ -3,4 +3,4 @@ Repository for demonstrating team use of GitHub.
 
 ## Team Members
 
-* Karl Stlley
+* Karl Stolley
